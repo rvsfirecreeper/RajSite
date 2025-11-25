@@ -3,4 +3,18 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 theme = 'ananke'
 [params]
-site_logo = "img/logo.svg"
+site_logo = "img/logo.png"
+date_format = "2. January 2006"
+[params.ananke.social.gitlab]
+username = "coolrustcoderguy"
+[params.ananke.social.github]
+username = "rvsfirecreeper"
+[params.ananke.social.codeberg]
+username = "rageh84"
+[params.ananke.social.networks.codeberg]
+slug = "codeberg"
+label = "Codeberg"
+color = "#2a6896"
+profile = "https://codeberg.org/%s"
+icon = "git-alt"
+share = false
