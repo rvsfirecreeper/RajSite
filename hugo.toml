@@ -2,3 +2,5 @@ title = "Raj Hardy's blog"
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 theme = 'ananke'
+[params]
+site_logo = "img/logo.svg"
