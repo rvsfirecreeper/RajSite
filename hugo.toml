@@ -1,4 +1,4 @@
 title = "Raj Hardy's blog"
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-theme = 'beautifulhugo'
+theme = 'ananke'
